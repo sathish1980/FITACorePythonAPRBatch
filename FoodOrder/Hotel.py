@@ -9,5 +9,8 @@ class Hotels():
             print("Hotel Is Not avaialable")
             return False
 
+    def newfunctiona(self):
+        pass
+
 
 
