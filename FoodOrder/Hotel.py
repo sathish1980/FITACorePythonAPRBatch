@@ -1,6 +1,6 @@
 class Hotels():
 
-    hotelsList= "A2B"
+    hotelsList= "A2B,SVB"
     def Hotel_Exist(self,hotelName):
         if(hotelName==self.hotelsList):
             print("Hotel Exist")
